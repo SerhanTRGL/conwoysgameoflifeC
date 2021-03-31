@@ -1,3 +1,5 @@
+/*I added my name to the top of the code
+@author shit i guess */
 #include <stdlib.h>
 #include <stdio.h>
 #include <windows.h>

@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-//#include <windows.h>
+#include <windows.h>
 #define BUFFER 1024
 
 void birth(char **space, int x_pos, int y_pos){
